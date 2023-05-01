@@ -70,6 +70,7 @@ const Dashboard = () => {
               gridTemplateAreas: gridTemplateSmallScreens,
             }
       }
+      overflow="hidden"
     >
       <Row1 />
       <Row2 />
